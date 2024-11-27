@@ -1,0 +1,31 @@
+body {
+    background-color: #e9ecef;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.lead {
+    font-size: 1.1rem;
+    color: #6c757d;
+    text-align: justify;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}

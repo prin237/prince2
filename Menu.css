@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #0056b3;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #007bff;
+}
